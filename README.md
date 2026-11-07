@@ -20,7 +20,8 @@ Air Quality and Pollution Assessment (Kaggle): https://www.kaggle.com/datasets/m
 - `README.md`
 
 ## Group Members
-- Name 1 (Leader)
-- Name 2
-- Name 3
-- Name 4
+- Lujain Mansour Alkadi (Leader)
+- Deema Alyhya
+- Riham Ahmed Alshehri
+- Anfal Alzahrani
+- Haneen Ali Alshehri
