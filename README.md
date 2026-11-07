@@ -1,18 +1,26 @@
-# Air-Quality-3.
+# Air Quality and Pollution Assessment
 
+IT326 – Data Mining Project | King Saud University
 
-## Project Description and Objectives
+## Project Description
+This project applies data mining techniques to an air quality dataset. Two tasks are performed:
+- **Classification:** Decision Tree models (Gini and Entropy) predict the Air Quality category (Good, Moderate, Poor, Hazardous) from environmental and pollution measurements.
+- **Clustering:** K-Means groups observations with similar measurement patterns, evaluated with the Elbow method and the Silhouette coefficient.
 
-This project aims to classify air quality levels using machine learning techniques based on environmental and pollution-related factors. The objective is to analyze these factors and use them to accurately classify different levels of air quality.
+## Motivation
+Air pollution affects public health and the environment. Understanding which measurements (such as CO, NO2, and proximity to industrial areas) are linked to poor air quality helps identify pollution patterns and supports environmental monitoring.
 
-## Project Motivation
+## Dataset
+Air Quality and Pollution Assessment (Kaggle): https://www.kaggle.com/datasets/mujtabamatin/air-quality-and-pollution-assessment
+5,000 records, 9 numeric features, and one class label (Air Quality).
 
-We selected this problem because air quality is an important environmental issue that can affect human health and quality of life. The selected dataset contains various environmental and pollution-related features that can help us understand the factors affecting air quality and classify it into different levels.
+## Repository Structure
+- `Dataset/` – `Raw_dataset.csv`, `Preprocessed_dataset.csv`, and the research paper
+- `Reports/` – `Phase1.ipynb`, `Phase2.ipynb`, `Phase3.ipynb`
+- `README.md`
 
-## Team Members
-
-* Deema Alyhya
-* Lujain Mansour Alkadi
-* Haneen Ali Alshehri
-* Anfal Alzahrani
-* Riham Ahmed Alshehri
+## Group Members
+- Name 1 (Leader)
+- Name 2
+- Name 3
+- Name 4
